@@ -1,0 +1,13 @@
+#include<iostream.h>
+Using namespece std;
+Int main()
+{
+Int data[5];
+Cout<<"enter elements:";
+For int(i=0;i<5;++i)
+Cin>>data[i];
+Cout<<"you enterd:";
+For int(i=0;i<5;++i)
+Cout<<end 1<< *(data + i);
+Return 0;
+}
